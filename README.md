@@ -1,1 +1,1 @@
-visual reaction test
+reaction test
